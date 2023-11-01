@@ -1,0 +1,13 @@
+{
+  "name": "jest-url-strict-equality",
+  "description": "Minimal reproduction for a bug in Jest's `toStrictEqual` matcher with URLs",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrew Haines <andrew@haines.org.nz>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
